@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "sohel-reactsamrbiya"
+  description: "sohel"
+  annotations:
+    github.com/project-slug: sohemokashi/sohelaccnbackstagenodejs1rubiya
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "guests"
